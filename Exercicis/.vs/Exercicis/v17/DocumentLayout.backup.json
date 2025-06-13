@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isard\\m09-t2-processos-2-convocat-ria-YerayRodriguezLopez\\Exercicis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEDD930-9382-436B-8237-79EA52C7B431}|Ex6\\Ex6.csproj|c:\\users\\isard\\m09-t2-processos-2-convocat-ria-yerayrodriguezlopez\\exercicis\\ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEDD930-9382-436B-8237-79EA52C7B431}|Ex6\\Ex6.csproj|solutionrelative:ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEDD930-9382-436B-8237-79EA52C7B431}|Ex6\\Ex6.csproj|c:\\users\\isard\\m09-t2-processos-2-convocat-ria-yerayrodriguezlopez\\exercicis\\ex6\\cakeproductionsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEDD930-9382-436B-8237-79EA52C7B431}|Ex6\\Ex6.csproj|solutionrelative:ex6\\cakeproductionsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7096679-CC8E-483C-B777-521FD34B102F}|Ex5\\Ex5.csproj|c:\\users\\isard\\m09-t2-processos-2-convocat-ria-yerayrodriguezlopez\\exercicis\\ex5\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7096679-CC8E-483C-B777-521FD34B102F}|Ex5\\Ex5.csproj|solutionrelative:ex5\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7096679-CC8E-483C-B777-521FD34B102F}|Ex5\\Ex5.csproj|c:\\users\\isard\\m09-t2-processos-2-convocat-ria-yerayrodriguezlopez\\exercicis\\ex5\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7096679-CC8E-483C-B777-521FD34B102F}|Ex5\\Ex5.csproj|solutionrelative:ex5\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7096679-CC8E-483C-B777-521FD34B102F}|Ex5\\Ex5.csproj|c:\\users\\isard\\m09-t2-processos-2-convocat-ria-yerayrodriguezlopez\\exercicis\\ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7096679-CC8E-483C-B777-521FD34B102F}|Ex5\\Ex5.csproj|solutionrelative:ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7096679-CC8E-483C-B777-521FD34B102F}|Ex5\\Ex5.csproj|c:\\users\\isard\\m09-t2-processos-2-convocat-ria-yerayrodriguezlopez\\exercicis\\ex5\\battery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7096679-CC8E-483C-B777-521FD34B102F}|Ex5\\Ex5.csproj|solutionrelative:ex5\\battery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5571B16-24C8-4616-BD10-3A8B769E7D1C}|Ex4\\Ex4.csproj|c:\\users\\isard\\m09-t2-processos-2-convocat-ria-yerayrodriguezlopez\\exercicis\\ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5571B16-24C8-4616-BD10-3A8B769E7D1C}|Ex4\\Ex4.csproj|solutionrelative:ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Simulation.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t2-processos-2-convocat-ria-YerayRodriguezLopez\\Exercicis\\Ex5\\Simulation.cs",
+              "RelativeDocumentMoniker": "Ex5\\Simulation.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t2-processos-2-convocat-ria-YerayRodriguezLopez\\Exercicis\\Ex5\\Simulation.cs",
+              "RelativeToolTip": "Ex5\\Simulation.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA7wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:30:02.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t2-processos-2-convocat-ria-YerayRodriguezLopez\\Exercicis\\Ex4\\Program.cs",
+              "RelativeDocumentMoniker": "Ex4\\Program.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t2-processos-2-convocat-ria-YerayRodriguezLopez\\Exercicis\\Ex4\\Program.cs",
+              "RelativeToolTip": "Ex4\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:21:39.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t2-processos-2-convocat-ria-YerayRodriguezLopez\\Exercicis\\Ex6\\Program.cs",
+              "RelativeDocumentMoniker": "Ex6\\Program.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t2-processos-2-convocat-ria-YerayRodriguezLopez\\Exercicis\\Ex6\\Program.cs",
+              "RelativeToolTip": "Ex6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:35:21.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CakeProductionSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t2-processos-2-convocat-ria-YerayRodriguezLopez\\Exercicis\\Ex6\\CakeProductionSimulator.cs",
+              "RelativeDocumentMoniker": "Ex6\\CakeProductionSimulator.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t2-processos-2-convocat-ria-YerayRodriguezLopez\\Exercicis\\Ex6\\CakeProductionSimulator.cs",
+              "RelativeToolTip": "Ex6\\CakeProductionSimulator.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA4wG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:35:57.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t2-processos-2-convocat-ria-YerayRodriguezLopez\\Exercicis\\Ex5\\Program.cs",
+              "RelativeDocumentMoniker": "Ex5\\Program.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t2-processos-2-convocat-ria-YerayRodriguezLopez\\Exercicis\\Ex5\\Program.cs",
+              "RelativeToolTip": "Ex5\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:26:46.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t2-processos-2-convocat-ria-YerayRodriguezLopez\\Exercicis\\Ex5\\Device.cs",
+              "RelativeDocumentMoniker": "Ex5\\Device.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t2-processos-2-convocat-ria-YerayRodriguezLopez\\Exercicis\\Ex5\\Device.cs",
+              "RelativeToolTip": "Ex5\\Device.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:29:03.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Battery.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t2-processos-2-convocat-ria-YerayRodriguezLopez\\Exercicis\\Ex5\\Battery.cs",
+              "RelativeDocumentMoniker": "Ex5\\Battery.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t2-processos-2-convocat-ria-YerayRodriguezLopez\\Exercicis\\Ex5\\Battery.cs",
+              "RelativeToolTip": "Ex5\\Battery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:28:19.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
